@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Been inactive from github and recently shifted from my personal account (this one) to my pro (soon-to-sunset). Anyway, let's code again.
+
+🌱 [check my inactive blog](https://blog.rainui.dev) 🌱
+
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
