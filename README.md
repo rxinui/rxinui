@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Been inactive from github and recently shifted from my personal account (this one) to my pro (soon-to-sunset). Anyway, let's code again.
+Been inactive from github and recently shifted to my personal account (this one) from my pro (soon-to-sunset). Anyway, im coding again.
 
 🌱 [check my inactive blog](https://blog.rainui.dev) 🌱
 
