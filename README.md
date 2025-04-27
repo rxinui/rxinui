@@ -8,7 +8,9 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Been inactive from github and recently shifted to my personal account (this one) from my pro (soon-to-sunset). Anyway, im coding again.
+been inactive from github and recently shifted back to my personal account (this one)
+
+TL;DR: im coding again
 
 ![](https://blog.rainui.dev/img/profile/avatar-1.png)
 
