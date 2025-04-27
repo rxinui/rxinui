@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://images.credly.com/size/110x110/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="kubestronaut" width="128" > <img src="https://images.credly.com/size/340x340/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="kca" width="128" /> <img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="cgoa" width="128" /> <img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="cgoa" width="128" />
+
 Been inactive from github and recently shifted to my personal account (this one) from my pro (soon-to-sunset). Anyway, im coding again.
 
 🌱 [check my inactive blog](https://blog.rainui.dev) 🌱
