@@ -12,7 +12,9 @@ been inactive from github and recently shifted back to my personal account (this
 
 TL;DR: im coding again
 
-![](https://blog.rainui.dev/img/profile/avatar-1.png)
+Contributions on: [yoke](https://github.com/yokecd/yoke), [kubetail](https://github.com/kubetail-org/kubetail)
+
+![rxinui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rxinui&theme=graywhite&hide_border=true)
 
 <!--
 **rxinui/rxinui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
