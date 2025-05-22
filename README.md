@@ -1,8 +1,11 @@
 ## TL;DR: im coding again
 
-love to contribute on
+maintainer of
 
 🌱 [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail)
+
+love to contribute on
+
 🌱 [shipwright-io](https://github.com/shipwright-io/cli)
 🌱 [kubestellar](https://github.com/kubestellar/kubestellar)
 🌱 [kubeflex](https://github.com/kubestellar/kubeflex)
