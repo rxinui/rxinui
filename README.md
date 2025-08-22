@@ -3,13 +3,17 @@
 maintainer of
 
 🌱 [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail)
+🌱 [kubeflex](https://github.com/kubestellar/kubeflex)
 
-love to contribute on
+member of CNCF projects
 
 🌱 [shipwright-io](https://github.com/shipwright-io/cli)
 🌱 [kubestellar](https://github.com/kubestellar/kubestellar)
-🌱 [kubeflex](https://github.com/kubestellar/kubeflex)
+
+love to see growing
+
 🌱 [yokecd/yoke](https://github.com/yokecd/yoke)
+🌱 [k0sproject/k0s](https://github.com/k0sproject/k0s)
 
 
 <img src="https://images.credly.com/size/110x110/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="kubestronaut" width="128" > <img src="https://images.credly.com/size/340x340/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="kca" width="128" /> <img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="cgoa" width="128" /> <img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="cgoa" width="128" /> <img src="https://images.credly.com/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png" alt="ica" width="128" />
