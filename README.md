@@ -10,4 +10,4 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-*been inactive from github and recently shifted back to my personal account (this one)*
+*been inactive from github as life was testing me*
